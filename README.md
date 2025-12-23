@@ -297,9 +297,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-**Developer**: ShortenLink Team
-**Email**: contact@shortenlink.dev
-**GitHub**: [github.com/username/shortenlink](https://github.com/username/shortenlink)
+**Developer**: Rizqy Nurfauzella
+**Email**: fauzella171@gmail.com
+**GitHub**: [github.com/RizqyNurfauzella](https://github.com/RizqyNurfauzella)
 
 ## 🎯 Fitur Khusus
 
